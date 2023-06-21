@@ -1,0 +1,13 @@
+.link__router{
+    background-color: #27374D;
+    color: white;
+    width: 80%;
+    margin: 0 auto;
+    padding: 0.5rem;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.link__router:hover{
+    background-color: black;
+}
